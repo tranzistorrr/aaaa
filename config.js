@@ -21,12 +21,12 @@
 
 
 module.exports = {
-  TOKEN: "",
+  TOKEN: "MTI1ODkwMzUwOTM5NTQzOTYzNw.GpW24e.cyKlaVumHgfcNtw4rT9HlHRVLLMFeFu3FHWt0c",
   ownerID: ["1004206704994566164", ""],
   botInvite: "",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-  status: 'GlaceYT',
+  status: 'Djolee',
   commandsDir: './commands',
   language: "en",
   embedColor: "00fbff",
@@ -35,7 +35,7 @@ module.exports = {
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/@GlaceYT",
+    url: "https://www.pornhub.com/",
   },
 
   voteManager: {
